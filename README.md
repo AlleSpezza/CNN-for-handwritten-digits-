@@ -4,7 +4,6 @@ The model can recognize only photo with black background and white foreground. I
 
 PROJECT STRUCTURE:
 data: photo to test the model
-myenvPY3.9.2: environment to run the model
 Results: graphical results of the model
 src: 2 different types of file. main.py: file to create the model. model_testing.py: file to preprocessing the test image and predict the result.
-mnist_model.h5: CNN model
+
